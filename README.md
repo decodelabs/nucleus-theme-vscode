@@ -16,4 +16,4 @@ Dark syntax theme for VS Code with focus on PHP and CSS.
 * Markdown
 * Bash
 * .env
-* + more coming
+* \+ more coming
