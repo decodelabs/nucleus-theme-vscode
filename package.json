@@ -1,0 +1,26 @@
+{
+    "name": "nucleus-theme",
+    "displayName": "DecodeLabs nucleus theme",
+    "description": "Easy on the eyes colour scheme for Visual Studio Code",
+    "publisher": "decodelabs",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Theme",
+        "Dark Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nucleus Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nucleus-dark-color-theme.json"
+            }
+        ]
+    }
+}
