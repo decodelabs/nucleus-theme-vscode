@@ -3,7 +3,7 @@
     "displayName": "DecodeLabs nucleus theme",
     "description": "Easy on the eyes colour theme for Visual Studio Code",
     "publisher": "decodelabs",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "homepage": "https://github.com/decodelabs/nucleus-theme-vscode",
     "bugs": {
         "url": "https://github.com/decodelabs/nucleus-theme-vscode/issues",
@@ -20,6 +20,10 @@
         "Themes"
     ],
     "icon": "assets/nucleus-icon.png",
+    "galleryBanner": {
+        "color": "#2F3237",
+        "theme": "dark"
+    },
     "keywords": [
         "Theme",
         "Dark Theme"
