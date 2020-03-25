@@ -4,6 +4,9 @@ All notable changes to the "nucleus-theme" extension will be documented in this 
 
 ## [Unreleased]
 
+## [0.1.3] - 2020-03-25
+- Fixed PHP echo
+
 ## [0.1.2] - 2020-03-20
 - Added license file
 
