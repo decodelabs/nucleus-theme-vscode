@@ -158,14 +158,21 @@
         // Keywords
         {
             "name": "Keyword",
-            "scope": ["keyword", "storage.modifier"],
+            "scope": [
+                "keyword",
+                "storage.modifier",
+                "support.function.construct.output"
+            ],
             "settings": {
                 "foreground": "#80d746ea"
             }
         },
         {
             "name": "Keyword",
-            "scope": ["keyword.control"],
+            "scope": [
+                "keyword.control",
+                "support.function.construct.output"
+            ],
             "settings": {
                 "fontStyle": "bold"
             }
@@ -235,7 +242,9 @@
         },
         {
             "name": "Namespaces",
-            "scope": ["support.other.namespace variable.language.namespace"],
+            "scope": [
+                "support.other.namespace variable.language.namespace"
+            ],
             "settings": {
                 "foreground": "#eae088c8"
             }
@@ -276,7 +285,11 @@
         // Punctuation
         {
             "name": "Punctuation",
-            "scope": ["punctuation", "keyword.operator", "meta.brace"],
+            "scope": [
+                "punctuation",
+                "keyword.operator",
+                "meta.brace"
+            ],
             "settings": {
                 "foreground": "#868e90"
             }
@@ -361,7 +374,10 @@
         // Variables
         {
             "name": "Variables",
-            "scope": ["variable", "string constant.other.placeholder"],
+            "scope": [
+                "variable",
+                "string constant.other.placeholder"
+            ],
             "settings": {
                 "foreground": "#ced4da"
             }
@@ -410,7 +426,11 @@
         },
         {
             "name": "String",
-            "scope": ["string.quoted", "meta.attribute-selector", "source.env"],
+            "scope": [
+                "string.quoted",
+                "meta.attribute-selector",
+                "source.env"
+            ],
             "settings": {
                 "foreground": "#ff9494"
             }
