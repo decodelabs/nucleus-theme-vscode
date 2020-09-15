@@ -28,6 +28,8 @@
         "editor.lineHighlightBackground": "#3d42482f",
         "editor.selectionBackground": "#8494a892",
         "editor.selectionHighlightBackground": "#84646d65",
+        "editor.findMatchBackground": "#8fd01e22",
+        "editor.findMatchBorder": "#dbeb8a8b",
         "editor.findMatchHighlightBackground": "#99af1a30",
         "editor.findMatchHighlightBorder": "#a0ab634c",
         "editor.rangeHighlightBackground": "#646c7728",
