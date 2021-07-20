@@ -225,7 +225,10 @@
         // Types
         {
             "name": "Types",
-            "scope": ["storage.type"],
+            "scope": [
+                "storage.type",
+                "keyword.other.type"
+            ],
             "settings": {
                 "fontStyle": "italic",
                 "foreground": "#5affe6df"
