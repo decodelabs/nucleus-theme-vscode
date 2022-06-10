@@ -136,9 +136,7 @@
         "titleBar.activeForeground": "#afafaf",
         "titleBar.border": "#303030",
         "titleBar.inactiveBackground": "#23282A",
-        "tree.indentGuidesStroke": "#e0b4d91a",
-        "welcomePage.buttonBackground": "#262B2D",
-        "welcomePage.buttonHoverBackground": "#2d3336"
+        "tree.indentGuidesStroke": "#e0b4d91a"
     },
     "tokenColors": [
         // General
