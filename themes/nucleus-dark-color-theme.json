@@ -521,6 +521,16 @@
                 "foreground": "#d4c076"
             }
         },
+        {
+            "name": "Preprocessor",
+            "scope": [
+                "keyword.preprocessor",
+            ],
+            "settings": {
+                "foreground": "#bda241",
+                "fontStyle": "bold"
+            }
+        },
 
         // Styles
         {
