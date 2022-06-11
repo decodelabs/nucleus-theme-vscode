@@ -199,7 +199,9 @@
                 "support.function.magic",
                 "meta.function-call",
                 "meta.method-call",
-                "meta.use constant.other"
+                "meta.use constant.other",
+                "keyword.other.get",
+                "keyword.other.set"
             ],
             "settings": {
                 "foreground": "#8fcbff"
@@ -225,7 +227,8 @@
             "name": "Types",
             "scope": [
                 "storage.type",
-                "keyword.other.type"
+                "keyword.other.type",
+                "keyword.type"
             ],
             "settings": {
                 "fontStyle": "italic",
@@ -387,7 +390,10 @@
         },
         {
             "name": "This",
-            "scope": ["variable.language.this"],
+            "scope": [
+                "variable.language.this",
+                "keyword.other.this"
+            ],
             "settings": {
                 "fontStyle": "italic",
                 "foreground": "#abdad3"
